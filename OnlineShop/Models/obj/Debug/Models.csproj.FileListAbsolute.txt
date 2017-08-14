@@ -1,0 +1,9 @@
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\Models.pdb
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\obj\Debug\Models.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\Models\obj\Debug\Models.pdb

@@ -42,3 +42,9 @@ D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razo
 D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
 D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
 D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\Models.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\Models.pdb
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.xml
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+D:\Hoc tap\Hoc MVC\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
